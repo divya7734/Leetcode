@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/divya7734/Leetcode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/divya7734/Leetcode/tree/master/0200-number-of-islands) |
 | [0753-open-the-lock](https://github.com/divya7734/Leetcode/tree/master/0753-open-the-lock) |
 ## Matrix
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0753-open-the-lock](https://github.com/divya7734/Leetcode/tree/master/0753-open-the-lock) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/divya7734/Leetcode/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/divya7734/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
