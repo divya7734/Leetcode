@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/divya7734/Leetcode/tree/master/0200-number-of-islands) |
 | [0494-target-sum](https://github.com/divya7734/Leetcode/tree/master/0494-target-sum) |
 | [0753-open-the-lock](https://github.com/divya7734/Leetcode/tree/master/0753-open-the-lock) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/divya7734/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Matrix
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0753-open-the-lock](https://github.com/divya7734/Leetcode/tree/master/0753-open-the-lock) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/divya7734/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## String
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/divya7734/Leetcode/tree/master/0279-perfect-squares) |
+## Counting
+|  |
+| ------- |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/divya7734/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 <!---LeetCode Topics End-->
