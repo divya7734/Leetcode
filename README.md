@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/divya7734/Leetcode/tree/master/0090-subsets-ii) |
+| [0162-find-peak-element](https://github.com/divya7734/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/divya7734/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/divya7734/Leetcode/tree/master/0200-number-of-islands) |
 | [0494-target-sum](https://github.com/divya7734/Leetcode/tree/master/0494-target-sum) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/divya7734/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/divya7734/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
