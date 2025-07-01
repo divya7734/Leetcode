@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divya7734/Leetcode/tree/master/0001-two-sum) |
 | [0090-subsets-ii](https://github.com/divya7734/Leetcode/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/divya7734/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/divya7734/Leetcode/tree/master/0179-largest-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divya7734/Leetcode/tree/master/0001-two-sum) |
 | [0753-open-the-lock](https://github.com/divya7734/Leetcode/tree/master/0753-open-the-lock) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/divya7734/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## String
