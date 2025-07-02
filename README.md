@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/divya7734/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divya7734/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/divya7734/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/divya7734/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/divya7734/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/divya7734/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/divya7734/Leetcode/tree/master/0200-number-of-islands) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divya7734/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/divya7734/Leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/divya7734/Leetcode/tree/master/0753-open-the-lock) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/divya7734/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/divya7734/Leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/divya7734/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Binary Search
@@ -90,10 +93,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/divya7734/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/divya7734/Leetcode/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/divya7734/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
