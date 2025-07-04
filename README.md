@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/divya7734/Leetcode/tree/master/0753-open-the-lock) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/divya7734/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1168-duplicate-zeros](https://github.com/divya7734/Leetcode/tree/master/1168-duplicate-zeros) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/divya7734/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/divya7734/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Matrix
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divya7734/Leetcode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [1168-duplicate-zeros](https://github.com/divya7734/Leetcode/tree/master/1168-duplicate-zeros) |
 <!---LeetCode Topics End-->
