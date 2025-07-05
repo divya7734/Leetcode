@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/divya7734/Leetcode/tree/master/1168-duplicate-zeros) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/divya7734/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/divya7734/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya7734/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/divya7734/Leetcode/tree/master/0753-open-the-lock) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/divya7734/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya7734/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/divya7734/Leetcode/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/divya7734/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya7734/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
@@ -112,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/divya7734/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/divya7734/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya7734/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya7734/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/divya7734/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Simulation
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya7734/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
