@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/divya7734/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/divya7734/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divya7734/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/divya7734/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0494-target-sum](https://github.com/divya7734/Leetcode/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/divya7734/Leetcode/tree/master/0753-open-the-lock) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/divya7734/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/divya7734/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/divya7734/Leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/divya7734/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
@@ -126,4 +128,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/divya7734/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/divya7734/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/divya7734/Leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/divya7734/Leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
