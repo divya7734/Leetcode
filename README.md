@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divya7734/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/divya7734/Leetcode/tree/master/0053-maximum-subarray) |
 | [0090-subsets-ii](https://github.com/divya7734/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divya7734/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divya7734/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/divya7734/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divya7734/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divya7734/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/divya7734/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/divya7734/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/divya7734/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
