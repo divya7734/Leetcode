@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/divya7734/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/divya7734/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divya7734/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divya7734/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/divya7734/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/divya7734/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/divya7734/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/divya7734/Leetcode/tree/master/0279-perfect-squares) |
 ## Counting
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/divya7734/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/divya7734/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
