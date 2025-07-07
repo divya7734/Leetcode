@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/divya7734/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divya7734/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divya7734/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/divya7734/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/divya7734/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
 | [0753-open-the-lock](https://github.com/divya7734/Leetcode/tree/master/0753-open-the-lock) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/divya7734/Leetcode/tree/master/0179-largest-number) |
+| [0451-sort-characters-by-frequency](https://github.com/divya7734/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0753-open-the-lock](https://github.com/divya7734/Leetcode/tree/master/0753-open-the-lock) |
 | [2470-removing-stars-from-a-string](https://github.com/divya7734/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divya7734/Leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/divya7734/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/divya7734/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Binary Search
@@ -121,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/divya7734/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/divya7734/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/divya7734/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0451-sort-characters-by-frequency](https://github.com/divya7734/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya7734/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/divya7734/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/divya7734/Leetcode/tree/master/0621-task-scheduler) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/divya7734/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
@@ -147,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/divya7734/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0451-sort-characters-by-frequency](https://github.com/divya7734/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Ordered Set
 |  |
 | ------- |
